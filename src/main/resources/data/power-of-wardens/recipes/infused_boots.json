@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "L L"
+  ],
+  "key": {
+    "I": {
+      "item": "power-of-wardens:infused_ingot"
+    },
+    "L": {
+      "item": "power-of-wardens:sculk_leather"
+    }
+  },
+  "result": {
+    "item": "power-of-wardens:infused_boots",
+    "count": 1
+  }
+}

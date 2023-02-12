@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "power-of-wardens:item/infused_hoe"
+  }
+}

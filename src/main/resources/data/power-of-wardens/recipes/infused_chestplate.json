@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "LEL",
+    "LLL"
+  ],
+  "key": {
+    "I": {
+      "item": "power-of-wardens:infused_ingot"
+    },
+    "E": {
+      "item": "power-of-wardens:warden_eye"
+    },
+    "L": {
+      "item": "power-of-wardens:sculk_leather"
+    }
+  },
+  "result": {
+    "item": "power-of-wardens:infused_chestplate",
+    "count": 1
+  }
+}

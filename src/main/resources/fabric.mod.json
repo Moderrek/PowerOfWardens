@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "power-of-wardens",
+	"version": "${version}",
+	"name": "Power Of Wardens",
+	"description": "Adds an warden armor and tools.",
+	"authors": [
+		"MODERR"
+	],
+	"contact": {
+		"homepage": "https://tw-software.eu/",
+		"sources": "https://github.com/Moderrek/PowerOfWardens/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/power-of-wardens/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"pl.moderr.powerofwardens.PowerOfWardensMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.14",
+		"minecraft": "~1.19.3",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HIH",
+    "L L"
+  ],
+  "key": {
+    "H": {
+      "item": "power-of-wardens:warden_horn"
+    },
+    "I": {
+      "item": "power-of-wardens:infused_ingot"
+    },
+    "L": {
+      "item": "power-of-wardens:sculk_leather"
+    }
+  },
+  "result": {
+    "item": "power-of-wardens:infused_helmet",
+    "count": 1
+  }
+}
